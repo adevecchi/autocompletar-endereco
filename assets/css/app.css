@@ -1,0 +1,17 @@
+nav .brand-logo {
+	font-size: 1.6rem;
+	padding-left: 20px; 
+}
+.card {
+	margin-top: 1.5rem;
+}
+form div.row,
+.card .card-content > .row {
+	margin-bottom: 0;
+} 
+.card .card-action {
+	padding: 4px 24px;
+}
+div.loader {
+	padding-top: 22px !important;
+}
